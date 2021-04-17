@@ -1,0 +1,16 @@
+{
+
+    "/css/app.css": "/css/app.css",
+    "/css/style.css": "/css/style.css",
+    "/dist/css/adminlte.min.css": "/dist/css/adminlte.min.css",
+    "/plugins/icheck-bootstrap/icheck-bootstrap.min.css": "plugins/icheck-bootstrap/icheck-bootstrap.min.css",
+    "/plugins/fontawesome-free/css/all.min.css":"/plugins/fontawesome-free/css/all.min.css",
+
+
+    "/js/app.js": "/js/app.js",
+    "/plugins/jquery/jquery.min.js":"/plugins/jquery/jquery.min.js",
+    "/plugins/bootstrap/js/bootstrap.bundle.min.js":"/plugins/bootstrap/js/bootstrap.bundle.min.js",
+    "/dist/js/adminlte.min.js":"/dist/js/adminlte.min.js"
+    
+    
+}
